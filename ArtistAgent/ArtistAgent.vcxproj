@@ -142,6 +142,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Artist.h" />
+    <ClInclude Include="ArtistMaker.h" />
     <ClInclude Include="Person.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="stdafx.h" />
@@ -152,6 +153,7 @@
   <ItemGroup>
     <ClCompile Include="Artist.cpp" />
     <ClCompile Include="ArtistAgent.cpp" />
+    <ClCompile Include="ArtistMaker.cpp" />
     <ClCompile Include="AssemblyInfo.cpp" />
     <ClCompile Include="Person.cpp" />
     <ClCompile Include="stdafx.cpp">
